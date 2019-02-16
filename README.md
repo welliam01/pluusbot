@@ -1,1 +1,2 @@
-# pluusbot
+# plus
+plus bot
